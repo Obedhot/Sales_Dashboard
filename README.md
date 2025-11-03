@@ -100,3 +100,8 @@ Enhance UI/UX using consistent colors, spacing, and interactivity
 Here’s a snapshot of the dashboard 👇
 
 https://github.com/Obedhot/Sales_Dashboard/blob/main/Screenshot%202025-11-03%20235655.png
+
+<p align="center">
+  <img src="https://github.com/Obedhot/Sales_Dashboard/blob/main/Screenshot%202025-11-03%20235655.png?raw=true" alt="Sales Dashboard" width="800">
+</p>
+
